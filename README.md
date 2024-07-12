@@ -35,6 +35,7 @@ For each package
 
 ### Developing packages
 - Create a subclass of ```src.package.Package``` defining the new package
+- Check out https://github.com/pyperize/sample_package
 
 ## Project structure
 
